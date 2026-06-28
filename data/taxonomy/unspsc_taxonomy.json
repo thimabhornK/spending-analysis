@@ -1,0 +1,245 @@
+{
+  "segments": {
+    "40": {
+      "name": "Industrial equipment and components",
+      "families": {
+        "14": {
+          "name": "Fluid handling - valves",
+          "classes": {
+            "16": {
+              "name": "Industrial valves",
+              "commodities": {
+                "07": {
+                  "name": "Gate valve"
+                },
+                "08": {
+                  "name": "Globe valve"
+                },
+                "09": {
+                  "name": "Ball valve"
+                },
+                "10": {
+                  "name": "Check valve"
+                },
+                "11": {
+                  "name": "Butterfly valve"
+                }
+              }
+            },
+            "18": {
+              "name": "Valve actuators",
+              "commodities": {
+                "05": {
+                  "name": "Pneumatic actuator"
+                },
+                "06": {
+                  "name": "Electric actuator"
+                }
+              }
+            }
+          }
+        },
+        "17": {
+          "name": "Pipe fittings",
+          "classes": {
+            "12": {
+              "name": "Pipe fittings",
+              "commodities": {
+                "04": {
+                  "name": "Elbow fitting"
+                },
+                "05": {
+                  "name": "Tee fitting"
+                },
+                "06": {
+                  "name": "Reducer fitting"
+                },
+                "07": {
+                  "name": "Weld neck flange"
+                }
+              }
+            }
+          }
+        },
+        "10": {
+          "name": "Rotating equipment",
+          "classes": {
+            "16": {
+              "name": "Pumps",
+              "commodities": {
+                "02": {
+                  "name": "Centrifugal pump"
+                },
+                "03": {
+                  "name": "Gear pump"
+                },
+                "04": {
+                  "name": "Diaphragm pump"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "41": {
+      "name": "Laboratory and measuring instruments",
+      "families": {
+        "11": {
+          "name": "Instruments",
+          "classes": {
+            "15": {
+              "name": "Process instruments",
+              "commodities": {
+                "03": {
+                  "name": "Pressure transmitter"
+                },
+                "04": {
+                  "name": "Flow meter"
+                },
+                "05": {
+                  "name": "Temperature transmitter"
+                },
+                "06": {
+                  "name": "Level gauge"
+                },
+                "07": {
+                  "name": "Control valve positioner"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "39": {
+      "name": "Electrical systems and lighting",
+      "families": {
+        "12": {
+          "name": "Power distribution",
+          "classes": {
+            "10": {
+              "name": "Cables and breakers",
+              "commodities": {
+                "02": {
+                  "name": "Power cable"
+                },
+                "03": {
+                  "name": "Circuit breaker"
+                },
+                "04": {
+                  "name": "Cable gland"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "31": {
+      "name": "Manufacturing components and supplies",
+      "families": {
+        "16": {
+          "name": "Hardware and consumables",
+          "classes": {
+            "15": {
+              "name": "MRO consumables",
+              "commodities": {
+                "02": {
+                  "name": "Hex bolt"
+                },
+                "03": {
+                  "name": "Ball bearing"
+                },
+                "04": {
+                  "name": "Gasket"
+                },
+                "05": {
+                  "name": "Mechanical seal"
+                },
+                "06": {
+                  "name": "Industrial lubricant"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "12": {
+      "name": "Chemicals including bio and gas materials",
+      "families": {
+        "16": {
+          "name": "Process chemicals",
+          "classes": {
+            "12": {
+              "name": "Catalysts and additives",
+              "commodities": {
+                "02": {
+                  "name": "Polymerization catalyst"
+                },
+                "03": {
+                  "name": "Antioxidant additive"
+                },
+                "04": {
+                  "name": "Process solvent"
+                },
+                "05": {
+                  "name": "Corrosion inhibitor"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "81": {
+      "name": "Engineering and research services",
+      "families": {
+        "10": {
+          "name": "Industrial services",
+          "classes": {
+            "15": {
+              "name": "Inspection and calibration",
+              "commodities": {
+                "02": {
+                  "name": "Calibration service"
+                },
+                "03": {
+                  "name": "Inspection service"
+                },
+                "04": {
+                  "name": "Overhaul service"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "80": {
+      "name": "Management and business professionals",
+      "families": {
+        "11": {
+          "name": "Contract staffing",
+          "classes": {
+            "16": {
+              "name": "Technical manpower",
+              "commodities": {
+                "02": {
+                  "name": "Manpower technician"
+                },
+                "03": {
+                  "name": "Manpower operator"
+                },
+                "04": {
+                  "name": "Manpower supervisor"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

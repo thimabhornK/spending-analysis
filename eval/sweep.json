@@ -1,0 +1,44 @@
+[
+  {
+    "threshold": 0.55,
+    "auto_classify_rate": 0.7838,
+    "auto_classify_precision": 0.9172,
+    "review_recall": 0.7692,
+    "incorrect_autoclassify": 12
+  },
+  {
+    "threshold": 0.6,
+    "auto_classify_rate": 0.7838,
+    "auto_classify_precision": 0.9172,
+    "review_recall": 0.7692,
+    "incorrect_autoclassify": 12
+  },
+  {
+    "threshold": 0.65,
+    "auto_classify_rate": 0.7568,
+    "auto_classify_precision": 0.95,
+    "review_recall": 0.8654,
+    "incorrect_autoclassify": 7
+  },
+  {
+    "threshold": 0.7,
+    "auto_classify_rate": 0.6757,
+    "auto_classify_precision": 0.96,
+    "review_recall": 0.9038,
+    "incorrect_autoclassify": 5
+  },
+  {
+    "threshold": 0.75,
+    "auto_classify_rate": 0.6541,
+    "auto_classify_precision": 0.9917,
+    "review_recall": 0.9808,
+    "incorrect_autoclassify": 1
+  },
+  {
+    "threshold": 0.8,
+    "auto_classify_rate": 0.5459,
+    "auto_classify_precision": 1.0,
+    "review_recall": 1.0,
+    "incorrect_autoclassify": 0
+  }
+]

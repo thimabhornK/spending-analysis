@@ -1,0 +1,7 @@
+numpy>=1.24
+pydantic>=2
+fastapi>=0.110
+uvicorn>=0.27
+rich>=13
+# optional: real embeddings + LLM selector backend
+# openai>=1.0

@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "spending-analysis"
+version = "1.0.0"
+description = "RAG-based UNSPSC spend classification with confidence-gated human-in-the-loop (synthetic-data demo)"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Thimabhorn Kaewman" }]
+keywords = ["rag", "retrieval", "unspsc", "spend-analysis", "procurement", "text-classification"]
+dependencies = [
+    "numpy>=1.24",
+    "pydantic>=2",
+    "fastapi>=0.110",
+    "uvicorn>=0.27",
+    "rich>=13",
+]
+
+[project.optional-dependencies]
+openai = ["openai>=1.0"]
+dev = ["pytest>=8"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src", "."]
+testpaths = ["tests"]

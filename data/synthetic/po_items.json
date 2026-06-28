@@ -1,0 +1,2407 @@
+[
+  {
+    "po": {
+      "po_item_id": "PO-00000",
+      "material_no": null,
+      "description": "purchase 8 inch cast pneumatic actuator iron",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401418050003",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00001",
+      "material_no": null,
+      "description": "2 carbon inch steel sch40 reducer concentric",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401712060004",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00002",
+      "material_no": null,
+      "description": "procurement of 0-25bar mag wafer flow meter monel",
+      "unit": "EA",
+      "contract_name": "Field Instruments Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "411115040003",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00003",
+      "material_no": null,
+      "description": "hotel accommodation conference",
+      "unit": "NIGHT",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00004",
+      "material_no": null,
+      "description": "procurement of a seal grade ptfe m16 mechanical",
+      "unit": "EA",
+      "contract_name": "MRO Consumables Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "311615050002",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00005",
+      "material_no": null,
+      "description": "purchase supply manpower non rotating confine technician",
+      "unit": "MD",
+      "contract_name": "Technical Manpower Contract",
+      "contract_type": "Manpower"
+    },
+    "truth_code": "801116020003",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00006",
+      "material_no": "MAT-1145",
+      "description": "manpower supply field supervisor static confine",
+      "unit": "MD",
+      "contract_name": "Technical Manpower Contract",
+      "contract_type": "Manpower"
+    },
+    "truth_code": "801116040001",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00007",
+      "material_no": null,
+      "description": "printer toner cartridge black",
+      "unit": "EA",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00008",
+      "material_no": null,
+      "description": "procurement of bolt dn50 grade hex a ptfe",
+      "unit": "BOX",
+      "contract_name": "MRO Consumables Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "311615029001",
+    "is_contract": true,
+    "kind": "new_variant"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00009",
+      "material_no": null,
+      "description": "6 class 150 lb valve inch ss",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401416090001",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00010",
+      "material_no": null,
+      "description": "purchase 99 industrial additive grade antioxidant 25kg bag percent",
+      "unit": "KG",
+      "contract_name": "Process Chemicals Supply Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "121612030004",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00011",
+      "material_no": null,
+      "description": "ptfe grade m12 a bolt hex",
+      "unit": "EA",
+      "contract_name": "MRO Consumables Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "311615020003",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00012",
+      "material_no": null,
+      "description": "m12 bolt a grade ptfe",
+      "unit": "EA",
+      "contract_name": "MRO Consumables Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "311615029001",
+    "is_contract": true,
+    "kind": "new_variant"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00013",
+      "material_no": null,
+      "description": "software license productivity suite annual",
+      "unit": "USER",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00014",
+      "material_no": "MAT-1070",
+      "description": "gear pump 30kw cast iron magnetic drive",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401016030002",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00015",
+      "material_no": null,
+      "description": "flow flanged 0-10bar monel",
+      "unit": "EA",
+      "contract_name": "Field Instruments Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "411115040002",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00016",
+      "material_no": null,
+      "description": "purchase calibration pressure quarterly vessel instrument",
+      "unit": "JOB",
+      "contract_name": "Inspection & Calibration Services Contract",
+      "contract_type": "Services"
+    },
+    "truth_code": "811015020001",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00017",
+      "material_no": "MAT-1113",
+      "description": "antioxidant additive technical grade 200l drum 99.9 percent",
+      "unit": "BAG",
+      "contract_name": "Process Chemicals Supply Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "121612030001",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00018",
+      "material_no": null,
+      "description": "grade polymerization catalyst ibc 1000l catalyst percent 98",
+      "unit": "KG",
+      "contract_name": "Process Chemicals Supply Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "121612029001",
+    "is_contract": true,
+    "kind": "new_variant"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00019",
+      "material_no": null,
+      "description": "valve bronze butterfly 900lb",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401416110001",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00020",
+      "material_no": null,
+      "description": "grade spiral 6203 gasket cs wound b",
+      "unit": "EA",
+      "contract_name": "MRO Consumables Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "311615049001",
+    "is_contract": true,
+    "kind": "new_variant"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00021",
+      "material_no": null,
+      "description": "equipment equipment rotating service annual",
+      "unit": "JOB",
+      "contract_name": "Inspection & Calibration Services Contract",
+      "contract_type": "Services"
+    },
+    "truth_code": "811015040001",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00022",
+      "material_no": null,
+      "description": "purchase non-confine operator manpower supply plant",
+      "unit": "MD",
+      "contract_name": "Technical Manpower Contract",
+      "contract_type": "Manpower"
+    },
+    "truth_code": "801116030003",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00023",
+      "material_no": "MAT-1071",
+      "description": "gear pump 5kw cast iron magnetic drive",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401016030003",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00024",
+      "material_no": null,
+      "description": "software license productivity suite annual",
+      "unit": "USER",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00025",
+      "material_no": "MAT-1067",
+      "description": "centrifugal pump 75kw duplex mechanical seal",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401016020003",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00026",
+      "material_no": null,
+      "description": "supply of 2 inch 90deg cs sch40 elbow",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401712040003",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00027",
+      "material_no": null,
+      "description": "software license productivity suite annual",
+      "unit": "USER",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00028",
+      "material_no": null,
+      "description": "purchase pressure monel 0-25bar flanged",
+      "unit": "EA",
+      "contract_name": "Field Instruments Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "411115030004",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00029",
+      "material_no": "MAT-1093",
+      "description": "ball bearing m12 graphite grade a",
+      "unit": "EA",
+      "contract_name": "MRO Consumables Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "311615030001",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00030",
+      "material_no": "MAT-1058",
+      "description": "level gauge 0-100bar flanged monel",
+      "unit": "EA",
+      "contract_name": "Field Instruments Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "411115060002",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00031",
+      "material_no": null,
+      "description": "vessel annual service inspection",
+      "unit": "JOB",
+      "contract_name": "Inspection & Calibration Services Contract",
+      "contract_type": "Services"
+    },
+    "truth_code": "811015030004",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00032",
+      "material_no": null,
+      "description": "hotel accommodation conference",
+      "unit": "NIGHT",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00033",
+      "material_no": null,
+      "description": "first aid kit refill",
+      "unit": "EA",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00034",
+      "material_no": null,
+      "description": "supply of iron pump seal mechanical cast 15kw centrifugal",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401016020004",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00035",
+      "material_no": null,
+      "description": "procurement of vessel pressure service ndt inspection",
+      "unit": "JOB",
+      "contract_name": "Inspection & Calibration Services Contract",
+      "contract_type": "Services"
+    },
+    "truth_code": "811015030002",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00036",
+      "material_no": null,
+      "description": "procurement of grade dn50 ptfe hex bolt",
+      "unit": "BOX",
+      "contract_name": "MRO Consumables Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "311615020004",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00037",
+      "material_no": null,
+      "description": "procurement of bag inhibitor grade 99.9 percent technical 25kg",
+      "unit": "IBC",
+      "contract_name": "Process Chemicals Supply Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "121612059001",
+    "is_contract": true,
+    "kind": "new_variant"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00038",
+      "material_no": null,
+      "description": "grade catalyst bag 25kg polymerization industrial percent 99",
+      "unit": "BAG",
+      "contract_name": "Process Chemicals Supply Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "121612020001",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00039",
+      "material_no": null,
+      "description": "courier parcel delivery domestic",
+      "unit": "JOB",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00040",
+      "material_no": "MAT-1035",
+      "description": "tee fitting 6in stainless steel sch160",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401712050003",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00041",
+      "material_no": null,
+      "description": "20 reducer inch concentric alloy 4 sch160",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401712060001",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00042",
+      "material_no": "MAT-1041",
+      "description": "weld neck flange 2in carbon steel sch80",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401712070001",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00043",
+      "material_no": null,
+      "description": "stationery notebook a4 ream",
+      "unit": "BOX",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00044",
+      "material_no": "MAT-1021",
+      "description": "pneumatic actuator 8in carbon steel 150lb",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401418050001",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00045",
+      "material_no": null,
+      "description": "first aid kit refill",
+      "unit": "EA",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00046",
+      "material_no": null,
+      "description": "supply of iron cast centrifugal pump 75kw",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401016020001",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00047",
+      "material_no": "MAT-1012",
+      "description": "ball valve 3in bronze 900lb",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401416090004",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00048",
+      "material_no": null,
+      "description": "reducer concentric sch80 4in ss",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401712069001",
+    "is_contract": true,
+    "kind": "new_variant"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00049",
+      "material_no": null,
+      "description": "procurement of transmitter hastelloy flanged 0-100bar temperature",
+      "unit": "EA",
+      "contract_name": "Field Instruments Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "411115050001",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00050",
+      "material_no": null,
+      "description": "purchase 99.9 process drum percent 200l solvent grade",
+      "unit": "DRUM",
+      "contract_name": "Process Chemicals Supply Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "121612040004",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00051",
+      "material_no": null,
+      "description": "first aid kit refill",
+      "unit": "EA",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00052",
+      "material_no": "MAT-1127",
+      "description": "instrument calibration service shutdown field instrument",
+      "unit": "JOB",
+      "contract_name": "Inspection & Calibration Services Contract",
+      "contract_type": "Services"
+    },
+    "truth_code": "811015020003",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00053",
+      "material_no": null,
+      "description": "1 lb 150 valve globe class inch",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401416080001",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00054",
+      "material_no": null,
+      "description": "xlpe cable 2.5sqmm",
+      "unit": "M",
+      "contract_name": "Electrical Bulk Supply Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "391210020003",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00055",
+      "material_no": "MAT-1140",
+      "description": "manpower supply technician static confine",
+      "unit": "MD",
+      "contract_name": "Technical Manpower Contract",
+      "contract_type": "Manpower"
+    },
+    "truth_code": "801116020004",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00056",
+      "material_no": null,
+      "description": "marketing campaign social media",
+      "unit": "JOB",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00057",
+      "material_no": null,
+      "description": "4 20 fitting tee inch sch40",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401712050001",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00058",
+      "material_no": null,
+      "description": "magnetic 75kw duplex diaphragm drive pump",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401016040004",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00059",
+      "material_no": null,
+      "description": "sch160 carbon weld inch steel flange 1",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401712070002",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00060",
+      "material_no": null,
+      "description": "transmitter temperature 0-100bar 316ss wafer",
+      "unit": "EA",
+      "contract_name": "Field Instruments Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "411115050002",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00061",
+      "material_no": null,
+      "description": "field service equipment annual instrument overhaul",
+      "unit": "JOB",
+      "contract_name": "Inspection & Calibration Services Contract",
+      "contract_type": "Services"
+    },
+    "truth_code": "811015040004",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00062",
+      "material_no": null,
+      "description": "office chair ergonomic mesh",
+      "unit": "EA",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00063",
+      "material_no": null,
+      "description": "procurement of mechanical pump 15kw gear seal ss",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401016039001",
+    "is_contract": true,
+    "kind": "new_variant"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00064",
+      "material_no": null,
+      "description": "supply of valve 900lb butterfly iron cast 8in",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401416110003",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00065",
+      "material_no": "MAT-1081",
+      "description": "circuit breaker 11kv 2.5sqmm pvc",
+      "unit": "EA",
+      "contract_name": "Electrical Bulk Supply Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "391210030001",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00066",
+      "material_no": null,
+      "description": "bag technical 25kg grade percent process 99.9",
+      "unit": "L",
+      "contract_name": "Process Chemicals Supply Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "121612040001",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00067",
+      "material_no": null,
+      "description": "coffee beans pantry supply",
+      "unit": "KG",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00068",
+      "material_no": null,
+      "description": "supply of ibc industrial grade 1000l polymerization 98 catalyst percent",
+      "unit": "KG",
+      "contract_name": "Process Chemicals Supply Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "121612020002",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00069",
+      "material_no": null,
+      "description": "percent antioxidant catalyst grade bag 25kg additive 99",
+      "unit": "BAG",
+      "contract_name": "Process Chemicals Supply Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "121612030002",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00070",
+      "material_no": null,
+      "description": "procurement of gate valve 900lb ss",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401416070001",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00071",
+      "material_no": null,
+      "description": "supply of inspection service ndt vessel pressure",
+      "unit": "JOB",
+      "contract_name": "Inspection & Calibration Services Contract",
+      "contract_type": "Services"
+    },
+    "truth_code": "811015039001",
+    "is_contract": true,
+    "kind": "new_variant"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00072",
+      "material_no": null,
+      "description": "stationery notebook a4 ream",
+      "unit": "BOX",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00073",
+      "material_no": null,
+      "description": "catering lunch buffet meeting",
+      "unit": "PAX",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00074",
+      "material_no": null,
+      "description": "software license productivity suite annual",
+      "unit": "USER",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00075",
+      "material_no": null,
+      "description": "purchase graphite 6203 grade ball bearing a",
+      "unit": "EA",
+      "contract_name": "MRO Consumables Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "311615030002",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00076",
+      "material_no": null,
+      "description": "actuator 300lb inch cast iron electric",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401418069001",
+    "is_contract": true,
+    "kind": "new_variant"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00077",
+      "material_no": null,
+      "description": "uniform polo shirt embroidered",
+      "unit": "EA",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00078",
+      "material_no": null,
+      "description": "415v breaker 2.5sqmm",
+      "unit": "EA",
+      "contract_name": "Electrical Bulk Supply Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "391210030003",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00079",
+      "material_no": null,
+      "description": "hotel accommodation conference",
+      "unit": "NIGHT",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00080",
+      "material_no": null,
+      "description": "75kw seal duplex mechanical pump",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401016030001",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00081",
+      "material_no": "MAT-1022",
+      "description": "pneumatic actuator 8in bronze 600lb",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401418050002",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00082",
+      "material_no": null,
+      "description": "procurement of 6203 grade b hex bolt graphite",
+      "unit": "EA",
+      "contract_name": "MRO Consumables Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "311615020001",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00083",
+      "material_no": null,
+      "description": "supply of 99.9 drum percent technical 200l grade additive",
+      "unit": "BAG",
+      "contract_name": "Process Chemicals Supply Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "121612039001",
+    "is_contract": true,
+    "kind": "new_variant"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00084",
+      "material_no": null,
+      "description": "first aid kit refill",
+      "unit": "EA",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00085",
+      "material_no": "MAT-1144",
+      "description": "manpower supply plant operator rotating confine",
+      "unit": "MD",
+      "contract_name": "Technical Manpower Contract",
+      "contract_type": "Manpower"
+    },
+    "truth_code": "801116030004",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00086",
+      "material_no": "MAT-1010",
+      "description": "ball valve 3in carbon steel 150lb",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401416090002",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00087",
+      "material_no": "MAT-1066",
+      "description": "centrifugal pump 5kw duplex packing",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401016020002",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00088",
+      "material_no": "MAT-1059",
+      "description": "level gauge 4-20ma wafer hastelloy",
+      "unit": "EA",
+      "contract_name": "Field Instruments Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "411115060003",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00089",
+      "material_no": null,
+      "description": "procurement of lubricant industrial class m16 8.8",
+      "unit": "L",
+      "contract_name": "MRO Consumables Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "311615060003",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00090",
+      "material_no": null,
+      "description": "25sqmm gland armoured",
+      "unit": "EA",
+      "contract_name": "Electrical Bulk Supply Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "391210040003",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00091",
+      "material_no": null,
+      "description": "static supply confine non technician manpower",
+      "unit": "MD",
+      "contract_name": "Technical Manpower Contract",
+      "contract_type": "Manpower"
+    },
+    "truth_code": "801116020001",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00092",
+      "material_no": null,
+      "description": "purchase inhibitor corrosion 200l 99.9 catalyst grade drum",
+      "unit": "L",
+      "contract_name": "Process Chemicals Supply Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "121612059001",
+    "is_contract": true,
+    "kind": "new_variant"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00093",
+      "material_no": "MAT-1007",
+      "description": "globe valve 2in carbon steel 300lb",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401416080003",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00094",
+      "material_no": "MAT-1078",
+      "description": "power cable 11kv 2.5sqmm pvc",
+      "unit": "M",
+      "contract_name": "Electrical Bulk Supply Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "391210020002",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00095",
+      "material_no": null,
+      "description": "equipment service instrument overhaul field",
+      "unit": "JOB",
+      "contract_name": "Inspection & Calibration Services Contract",
+      "contract_type": "Services"
+    },
+    "truth_code": "811015040003",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00096",
+      "material_no": null,
+      "description": "supply of seal pump mechanical 15kw gear",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401016030004",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00097",
+      "material_no": "MAT-1008",
+      "description": "globe valve 4in stainless steel 150lb",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401416080004",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00098",
+      "material_no": null,
+      "description": "printer toner cartridge black",
+      "unit": "EA",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00099",
+      "material_no": null,
+      "description": "ball grade m16 bearing graphite",
+      "unit": "EA",
+      "contract_name": "MRO Consumables Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "311615030004",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00100",
+      "material_no": null,
+      "description": "billboard advertising rental",
+      "unit": "MONTH",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00101",
+      "material_no": null,
+      "description": "valve monel 0-10bar threaded positioner",
+      "unit": "EA",
+      "contract_name": "Field Instruments Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "411115070004",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00102",
+      "material_no": null,
+      "description": "inch gate lb 4 bronze 150 class valve",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401416070004",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00103",
+      "material_no": null,
+      "description": "flanged hastelloy 0-10bar pressure",
+      "unit": "EA",
+      "contract_name": "Field Instruments Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "411115030002",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00104",
+      "material_no": "MAT-1148",
+      "description": "manpower supply field supervisor rotating confine",
+      "unit": "MD",
+      "contract_name": "Technical Manpower Contract",
+      "contract_type": "Manpower"
+    },
+    "truth_code": "801116040004",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00105",
+      "material_no": null,
+      "description": "supply of supply static manpower non-confine supervisor",
+      "unit": "MD",
+      "contract_name": "Technical Manpower Contract",
+      "contract_type": "Manpower"
+    },
+    "truth_code": "801116040003",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00106",
+      "material_no": null,
+      "description": "ss 15kw mechanical seal",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401016039001",
+    "is_contract": true,
+    "kind": "new_variant"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00107",
+      "material_no": null,
+      "description": "4in flange neck sch160",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401712070004",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00108",
+      "material_no": null,
+      "description": "4 reducer alloy 20 sch80",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401712060003",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00109",
+      "material_no": null,
+      "description": "coffee beans pantry supply",
+      "unit": "KG",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00110",
+      "material_no": null,
+      "description": "purchase armoured cable 415v gland 6sqmm",
+      "unit": "EA",
+      "contract_name": "Electrical Bulk Supply Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "391210040001",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00111",
+      "material_no": null,
+      "description": "wafer transmitter 0-100bar",
+      "unit": "EA",
+      "contract_name": "Field Instruments Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "411115030001",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00112",
+      "material_no": null,
+      "description": "supply of percent grade 99.9 process solvent ibc technical 1000l",
+      "unit": "DRUM",
+      "contract_name": "Process Chemicals Supply Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "121612040003",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00113",
+      "material_no": null,
+      "description": "cs 1 valve inch butterfly",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401416110004",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00114",
+      "material_no": null,
+      "description": "supply of calibration service field annual instrument",
+      "unit": "JOB",
+      "contract_name": "Inspection & Calibration Services Contract",
+      "contract_type": "Services"
+    },
+    "truth_code": "811015020002",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00115",
+      "material_no": null,
+      "description": "supply of lb electric actuator 300 cs class",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401418069001",
+    "is_contract": true,
+    "kind": "new_variant"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00116",
+      "material_no": null,
+      "description": "transmitter monel 0-25bar threaded",
+      "unit": "EA",
+      "contract_name": "Field Instruments Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "411115050003",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00117",
+      "material_no": null,
+      "description": "b hex 6203 bolt grade graphite",
+      "unit": "EA",
+      "contract_name": "MRO Consumables Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "311615029001",
+    "is_contract": true,
+    "kind": "new_variant"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00118",
+      "material_no": "MAT-1097",
+      "description": "spiral wound gasket m16 carbon steel class 8.8",
+      "unit": "EA",
+      "contract_name": "MRO Consumables Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "311615040001",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00119",
+      "material_no": null,
+      "description": "first aid kit refill",
+      "unit": "EA",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00120",
+      "material_no": null,
+      "description": "software license productivity suite annual",
+      "unit": "USER",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00121",
+      "material_no": "MAT-1118",
+      "description": "process solvent catalyst grade 200l drum 98 percent",
+      "unit": "DRUM",
+      "contract_name": "Process Chemicals Supply Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "121612040002",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00122",
+      "material_no": null,
+      "description": "printer toner cartridge black",
+      "unit": "EA",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00123",
+      "material_no": null,
+      "description": "carbon 900lb 2 steel inch globe",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401416080002",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00124",
+      "material_no": null,
+      "description": "uniform polo shirt embroidered",
+      "unit": "EA",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00125",
+      "material_no": "MAT-1028",
+      "description": "electric actuator 4in cast iron 300lb",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401418060004",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00126",
+      "material_no": null,
+      "description": "laptop computer 14 inch business",
+      "unit": "EA",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00127",
+      "material_no": null,
+      "description": "supply of 90 degree 20 alloy elbow 3in sch80",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401712040002",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00128",
+      "material_no": null,
+      "description": "purchase wafer meter electromagnetic 0-100bar 316ss flow",
+      "unit": "EA",
+      "contract_name": "Field Instruments Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "411115040004",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00129",
+      "material_no": null,
+      "description": "confine supply operator plant manpower static",
+      "unit": "MD",
+      "contract_name": "Technical Manpower Contract",
+      "contract_type": "Manpower"
+    },
+    "truth_code": "801116030001",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00130",
+      "material_no": null,
+      "description": "air ticket bangkok singapore economy",
+      "unit": "EA",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00131",
+      "material_no": null,
+      "description": "purchase 4-20ma monel positioner wafer",
+      "unit": "EA",
+      "contract_name": "Field Instruments Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "411115070002",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00132",
+      "material_no": null,
+      "description": "purchase 3in stainless pneumatic 150lb steel",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401418050004",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00133",
+      "material_no": null,
+      "description": "cs sch80 6 inch flange",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401712070003",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00134",
+      "material_no": "MAT-1115",
+      "description": "antioxidant additive catalyst grade 1000l ibc 98 percent",
+      "unit": "BAG",
+      "contract_name": "Process Chemicals Supply Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "121612030003",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00135",
+      "material_no": null,
+      "description": "office chair ergonomic mesh",
+      "unit": "EA",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00136",
+      "material_no": "MAT-1018",
+      "description": "butterfly valve 8in carbon steel 600lb",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401416110002",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00137",
+      "material_no": null,
+      "description": "coffee beans pantry supply",
+      "unit": "KG",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00138",
+      "material_no": null,
+      "description": "purchase wafer 0-25bar temperature hastelloy transmitter",
+      "unit": "EA",
+      "contract_name": "Field Instruments Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "411115050004",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00139",
+      "material_no": null,
+      "description": "purchase iron check 1 valve inch 900lb",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401416100002",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00140",
+      "material_no": null,
+      "description": "steel 600lb 1in carbon gate",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401416070002",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00141",
+      "material_no": null,
+      "description": "procurement of inch elbow degree 20 2 90 sch40 alloy",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401712040004",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00142",
+      "material_no": null,
+      "description": "catering lunch buffet meeting",
+      "unit": "PAX",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00143",
+      "material_no": null,
+      "description": "first aid kit refill",
+      "unit": "EA",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00144",
+      "material_no": null,
+      "description": "procurement of 8in 600lb check valve",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401416100003",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00145",
+      "material_no": null,
+      "description": "wafer 0-100bar 316ss transmitter temperature",
+      "unit": "EA",
+      "contract_name": "Field Instruments Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "411115059001",
+    "is_contract": true,
+    "kind": "new_variant"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00146",
+      "material_no": null,
+      "description": "office chair ergonomic mesh",
+      "unit": "EA",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00147",
+      "material_no": null,
+      "description": "laptop computer 14 inch business",
+      "unit": "EA",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00148",
+      "material_no": null,
+      "description": "drum 200l industrial inhibitor grade percent 98 corrosion",
+      "unit": "L",
+      "contract_name": "Process Chemicals Supply Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "121612050003",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00149",
+      "material_no": "MAT-1013",
+      "description": "check valve 3in stainless steel 300lb",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401416100001",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00150",
+      "material_no": "MAT-1027",
+      "description": "electric actuator 4in carbon steel 300lb",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401418060003",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00151",
+      "material_no": null,
+      "description": "mobile phone plan corporate",
+      "unit": "LINE",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00152",
+      "material_no": "MAT-1038",
+      "description": "concentric reducer 4in stainless steel sch80",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401712060002",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00153",
+      "material_no": null,
+      "description": "supply of dn50 bolt grade steel hex b stainless",
+      "unit": "EA",
+      "contract_name": "MRO Consumables Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "311615020002",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00154",
+      "material_no": "MAT-1095",
+      "description": "ball bearing m12 graphite class 8.8",
+      "unit": "EA",
+      "contract_name": "MRO Consumables Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "311615030003",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00155",
+      "material_no": "MAT-1057",
+      "description": "level gauge 0-10bar flanged hastelloy",
+      "unit": "EA",
+      "contract_name": "Field Instruments Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "411115060001",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00156",
+      "material_no": null,
+      "description": "purchase class wound spiral m8 8.8 gasket",
+      "unit": "EA",
+      "contract_name": "MRO Consumables Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "311615040002",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00157",
+      "material_no": "MAT-1036",
+      "description": "tee fitting 2in alloy 20 sch160",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401712050004",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00158",
+      "material_no": null,
+      "description": "first aid kit refill",
+      "unit": "EA",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00159",
+      "material_no": "MAT-1060",
+      "description": "level gauge 0-10bar flanged 316ss",
+      "unit": "EA",
+      "contract_name": "Field Instruments Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "411115060004",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00160",
+      "material_no": null,
+      "description": "purchase lubricant grade industrial m8 b steel",
+      "unit": "L",
+      "contract_name": "MRO Consumables Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "311615060002",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00161",
+      "material_no": null,
+      "description": "ptfe grade a industrial dn50 lubricant",
+      "unit": "DRUM",
+      "contract_name": "MRO Consumables Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "311615069001",
+    "is_contract": true,
+    "kind": "new_variant"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00162",
+      "material_no": null,
+      "description": "xlpe 2.5sqmm circuit 240v breaker",
+      "unit": "EA",
+      "contract_name": "Electrical Bulk Supply Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "391210030002",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00163",
+      "material_no": null,
+      "description": "supply of process technical 25kg bag 99.9 percent grade solvent",
+      "unit": "L",
+      "contract_name": "Process Chemicals Supply Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "121612049001",
+    "is_contract": true,
+    "kind": "new_variant"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00164",
+      "material_no": "MAT-1099",
+      "description": "spiral wound gasket 6203 carbon steel grade b",
+      "unit": "EA",
+      "contract_name": "MRO Consumables Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "311615040003",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00165",
+      "material_no": null,
+      "description": "supply of 99.9 percent grade 25kg bag corrosion inhibitor technical",
+      "unit": "IBC",
+      "contract_name": "Process Chemicals Supply Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "121612050004",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00166",
+      "material_no": null,
+      "description": "75kw duplex pump magnetic drive",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401016049001",
+    "is_contract": true,
+    "kind": "new_variant"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00167",
+      "material_no": null,
+      "description": "supply of cs grade m12 b industrial lubricant",
+      "unit": "L",
+      "contract_name": "MRO Consumables Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "311615060004",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00168",
+      "material_no": null,
+      "description": "hotel accommodation conference",
+      "unit": "NIGHT",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00169",
+      "material_no": null,
+      "description": "supply of cable gland 6sqmm 415v",
+      "unit": "EA",
+      "contract_name": "Electrical Bulk Supply Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "391210040004",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00170",
+      "material_no": "MAT-1016",
+      "description": "check valve 1in bronze 300lb",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401416100004",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00171",
+      "material_no": null,
+      "description": "office chair ergonomic mesh",
+      "unit": "EA",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00172",
+      "material_no": null,
+      "description": "75kw mechanical iron pump cast diaphragm",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401016040003",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00173",
+      "material_no": null,
+      "description": "equipment rotating inspection service ndt",
+      "unit": "JOB",
+      "contract_name": "Inspection & Calibration Services Contract",
+      "contract_type": "Services"
+    },
+    "truth_code": "811015030003",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00174",
+      "material_no": null,
+      "description": "catering lunch buffet meeting",
+      "unit": "PAX",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00175",
+      "material_no": "MAT-1134",
+      "description": "equipment overhaul service quarterly pressure vessel",
+      "unit": "JOB",
+      "contract_name": "Inspection & Calibration Services Contract",
+      "contract_type": "Services"
+    },
+    "truth_code": "811015040002",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00176",
+      "material_no": "MAT-1086",
+      "description": "cable gland 415v 95sqmm armoured",
+      "unit": "EA",
+      "contract_name": "Electrical Bulk Supply Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "391210040002",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00177",
+      "material_no": null,
+      "description": "supply of 4-20ma flanged positioner hastelloy",
+      "unit": "EA",
+      "contract_name": "Field Instruments Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "411115070001",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00178",
+      "material_no": null,
+      "description": "static manpower plant confine operator supply",
+      "unit": "MD",
+      "contract_name": "Technical Manpower Contract",
+      "contract_type": "Manpower"
+    },
+    "truth_code": "801116039001",
+    "is_contract": true,
+    "kind": "new_variant"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00179",
+      "material_no": null,
+      "description": "a mechanical ss grade m8",
+      "unit": "EA",
+      "contract_name": "MRO Consumables Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "311615059001",
+    "is_contract": true,
+    "kind": "new_variant"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00180",
+      "material_no": "MAT-1146",
+      "description": "manpower supply field supervisor rotating non-confine",
+      "unit": "MD",
+      "contract_name": "Technical Manpower Contract",
+      "contract_type": "Manpower"
+    },
+    "truth_code": "801116040002",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00181",
+      "material_no": null,
+      "description": "purchase ss m16 b mechanical grade seal",
+      "unit": "EA",
+      "contract_name": "MRO Consumables Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "311615050003",
+    "is_contract": true,
+    "kind": "semantic"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00182",
+      "material_no": "MAT-1111",
+      "description": "polymerization catalyst catalyst grade 1000l ibc 98 percent",
+      "unit": "KG",
+      "contract_name": "Process Chemicals Supply Contract",
+      "contract_type": "Materials"
+    },
+    "truth_code": "121612020003",
+    "is_contract": true,
+    "kind": "exact"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00183",
+      "material_no": null,
+      "description": "billboard advertising rental",
+      "unit": "MONTH",
+      "contract_name": null,
+      "contract_type": null
+    },
+    "truth_code": null,
+    "is_contract": false,
+    "kind": "non_contract"
+  },
+  {
+    "po": {
+      "po_item_id": "PO-00184",
+      "material_no": "MAT-1029",
+      "description": "elbow 90 degree 6in stainless steel sch160",
+      "unit": "EA",
+      "contract_name": "Valves & Rotating Frame Agreement",
+      "contract_type": "Materials"
+    },
+    "truth_code": "401712040001",
+    "is_contract": true,
+    "kind": "exact"
+  }
+]

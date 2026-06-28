@@ -1,0 +1,1334 @@
+[
+  {
+    "item_id": "M-1001",
+    "material_no": "MAT-1001",
+    "description": "gate valve 3in stainless steel 900lb",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401416070001"
+  },
+  {
+    "item_id": "M-1002",
+    "material_no": "MAT-1002",
+    "description": "gate valve 1in carbon steel 600lb",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401416070002"
+  },
+  {
+    "item_id": "M-1003",
+    "material_no": "MAT-1003",
+    "description": "gate valve 6in stainless steel 150lb",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401416070003"
+  },
+  {
+    "item_id": "M-1004",
+    "material_no": "MAT-1004",
+    "description": "gate valve 4in bronze 150lb",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401416070004"
+  },
+  {
+    "item_id": "M-1005",
+    "material_no": "MAT-1005",
+    "description": "globe valve 1in bronze 150lb",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401416080001"
+  },
+  {
+    "item_id": "M-1006",
+    "material_no": "MAT-1006",
+    "description": "globe valve 2in carbon steel 900lb",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401416080002"
+  },
+  {
+    "item_id": "M-1007",
+    "material_no": "MAT-1007",
+    "description": "globe valve 2in carbon steel 300lb",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401416080003"
+  },
+  {
+    "item_id": "M-1008",
+    "material_no": "MAT-1008",
+    "description": "globe valve 4in stainless steel 150lb",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401416080004"
+  },
+  {
+    "item_id": "M-1009",
+    "material_no": "MAT-1009",
+    "description": "ball valve 6in stainless steel 150lb",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401416090001"
+  },
+  {
+    "item_id": "M-1010",
+    "material_no": "MAT-1010",
+    "description": "ball valve 3in carbon steel 150lb",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401416090002"
+  },
+  {
+    "item_id": "M-1011",
+    "material_no": "MAT-1011",
+    "description": "ball valve 6in stainless steel 900lb",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401416090003"
+  },
+  {
+    "item_id": "M-1012",
+    "material_no": "MAT-1012",
+    "description": "ball valve 3in bronze 900lb",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401416090004"
+  },
+  {
+    "item_id": "M-1013",
+    "material_no": "MAT-1013",
+    "description": "check valve 3in stainless steel 300lb",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401416100001"
+  },
+  {
+    "item_id": "M-1014",
+    "material_no": "MAT-1014",
+    "description": "check valve 1in cast iron 900lb",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401416100002"
+  },
+  {
+    "item_id": "M-1015",
+    "material_no": "MAT-1015",
+    "description": "check valve 8in bronze 600lb",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401416100003"
+  },
+  {
+    "item_id": "M-1016",
+    "material_no": "MAT-1016",
+    "description": "check valve 1in bronze 300lb",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401416100004"
+  },
+  {
+    "item_id": "M-1017",
+    "material_no": "MAT-1017",
+    "description": "butterfly valve 2in bronze 900lb",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401416110001"
+  },
+  {
+    "item_id": "M-1018",
+    "material_no": "MAT-1018",
+    "description": "butterfly valve 8in carbon steel 600lb",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401416110002"
+  },
+  {
+    "item_id": "M-1019",
+    "material_no": "MAT-1019",
+    "description": "butterfly valve 8in cast iron 900lb",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401416110003"
+  },
+  {
+    "item_id": "M-1020",
+    "material_no": "MAT-1020",
+    "description": "butterfly valve 1in carbon steel 600lb",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401416110004"
+  },
+  {
+    "item_id": "M-1021",
+    "material_no": "MAT-1021",
+    "description": "pneumatic actuator 8in carbon steel 150lb",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401418050001"
+  },
+  {
+    "item_id": "M-1022",
+    "material_no": "MAT-1022",
+    "description": "pneumatic actuator 8in bronze 600lb",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401418050002"
+  },
+  {
+    "item_id": "M-1023",
+    "material_no": "MAT-1023",
+    "description": "pneumatic actuator 8in cast iron 150lb",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401418050003"
+  },
+  {
+    "item_id": "M-1024",
+    "material_no": "MAT-1024",
+    "description": "pneumatic actuator 3in stainless steel 150lb",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401418050004"
+  },
+  {
+    "item_id": "M-1025",
+    "material_no": "MAT-1025",
+    "description": "electric actuator 1in stainless steel 600lb",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401418060001"
+  },
+  {
+    "item_id": "M-1026",
+    "material_no": "MAT-1026",
+    "description": "electric actuator 8in stainless steel 900lb",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401418060002"
+  },
+  {
+    "item_id": "M-1027",
+    "material_no": "MAT-1027",
+    "description": "electric actuator 4in carbon steel 300lb",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401418060003"
+  },
+  {
+    "item_id": "M-1028",
+    "material_no": "MAT-1028",
+    "description": "electric actuator 4in cast iron 300lb",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401418060004"
+  },
+  {
+    "item_id": "M-1029",
+    "material_no": "MAT-1029",
+    "description": "elbow 90 degree 6in stainless steel sch160",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401712040001"
+  },
+  {
+    "item_id": "M-1030",
+    "material_no": "MAT-1030",
+    "description": "elbow 90 degree 3in alloy 20 sch80",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401712040002"
+  },
+  {
+    "item_id": "M-1031",
+    "material_no": "MAT-1031",
+    "description": "elbow 90 degree 2in carbon steel sch40",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401712040003"
+  },
+  {
+    "item_id": "M-1032",
+    "material_no": "MAT-1032",
+    "description": "elbow 90 degree 2in alloy 20 sch40",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401712040004"
+  },
+  {
+    "item_id": "M-1033",
+    "material_no": "MAT-1033",
+    "description": "tee fitting 4in alloy 20 sch40",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401712050001"
+  },
+  {
+    "item_id": "M-1034",
+    "material_no": "MAT-1034",
+    "description": "tee fitting 3in carbon steel sch40",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401712050002"
+  },
+  {
+    "item_id": "M-1035",
+    "material_no": "MAT-1035",
+    "description": "tee fitting 6in stainless steel sch160",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401712050003"
+  },
+  {
+    "item_id": "M-1036",
+    "material_no": "MAT-1036",
+    "description": "tee fitting 2in alloy 20 sch160",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401712050004"
+  },
+  {
+    "item_id": "M-1037",
+    "material_no": "MAT-1037",
+    "description": "concentric reducer 4in alloy 20 sch160",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401712060001"
+  },
+  {
+    "item_id": "M-1038",
+    "material_no": "MAT-1038",
+    "description": "concentric reducer 4in stainless steel sch80",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401712060002"
+  },
+  {
+    "item_id": "M-1039",
+    "material_no": "MAT-1039",
+    "description": "concentric reducer 4in alloy 20 sch80",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401712060003"
+  },
+  {
+    "item_id": "M-1040",
+    "material_no": "MAT-1040",
+    "description": "concentric reducer 2in carbon steel sch40",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401712060004"
+  },
+  {
+    "item_id": "M-1041",
+    "material_no": "MAT-1041",
+    "description": "weld neck flange 2in carbon steel sch80",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401712070001"
+  },
+  {
+    "item_id": "M-1042",
+    "material_no": "MAT-1042",
+    "description": "weld neck flange 1in carbon steel sch160",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401712070002"
+  },
+  {
+    "item_id": "M-1043",
+    "material_no": "MAT-1043",
+    "description": "weld neck flange 6in carbon steel sch80",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401712070003"
+  },
+  {
+    "item_id": "M-1044",
+    "material_no": "MAT-1044",
+    "description": "weld neck flange 4in carbon steel sch160",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401712070004"
+  },
+  {
+    "item_id": "M-1045",
+    "material_no": "MAT-1045",
+    "description": "pressure transmitter 0-100bar wafer hastelloy",
+    "unit": "EA",
+    "contract_name": "Field Instruments Contract",
+    "contract_type": "Materials",
+    "code": "411115030001"
+  },
+  {
+    "item_id": "M-1046",
+    "material_no": "MAT-1046",
+    "description": "pressure transmitter 0-10bar flanged hastelloy",
+    "unit": "EA",
+    "contract_name": "Field Instruments Contract",
+    "contract_type": "Materials",
+    "code": "411115030002"
+  },
+  {
+    "item_id": "M-1047",
+    "material_no": "MAT-1047",
+    "description": "pressure transmitter 4-20ma threaded hastelloy",
+    "unit": "EA",
+    "contract_name": "Field Instruments Contract",
+    "contract_type": "Materials",
+    "code": "411115030003"
+  },
+  {
+    "item_id": "M-1048",
+    "material_no": "MAT-1048",
+    "description": "pressure transmitter 0-25bar flanged monel",
+    "unit": "EA",
+    "contract_name": "Field Instruments Contract",
+    "contract_type": "Materials",
+    "code": "411115030004"
+  },
+  {
+    "item_id": "M-1049",
+    "material_no": "MAT-1049",
+    "description": "electromagnetic flow meter 0-100bar threaded monel",
+    "unit": "EA",
+    "contract_name": "Field Instruments Contract",
+    "contract_type": "Materials",
+    "code": "411115040001"
+  },
+  {
+    "item_id": "M-1050",
+    "material_no": "MAT-1050",
+    "description": "electromagnetic flow meter 0-10bar flanged monel",
+    "unit": "EA",
+    "contract_name": "Field Instruments Contract",
+    "contract_type": "Materials",
+    "code": "411115040002"
+  },
+  {
+    "item_id": "M-1051",
+    "material_no": "MAT-1051",
+    "description": "electromagnetic flow meter 0-25bar wafer monel",
+    "unit": "EA",
+    "contract_name": "Field Instruments Contract",
+    "contract_type": "Materials",
+    "code": "411115040003"
+  },
+  {
+    "item_id": "M-1052",
+    "material_no": "MAT-1052",
+    "description": "electromagnetic flow meter 0-100bar wafer 316ss",
+    "unit": "EA",
+    "contract_name": "Field Instruments Contract",
+    "contract_type": "Materials",
+    "code": "411115040004"
+  },
+  {
+    "item_id": "M-1053",
+    "material_no": "MAT-1053",
+    "description": "temperature transmitter 0-100bar flanged hastelloy",
+    "unit": "EA",
+    "contract_name": "Field Instruments Contract",
+    "contract_type": "Materials",
+    "code": "411115050001"
+  },
+  {
+    "item_id": "M-1054",
+    "material_no": "MAT-1054",
+    "description": "temperature transmitter 0-100bar wafer 316ss",
+    "unit": "EA",
+    "contract_name": "Field Instruments Contract",
+    "contract_type": "Materials",
+    "code": "411115050002"
+  },
+  {
+    "item_id": "M-1055",
+    "material_no": "MAT-1055",
+    "description": "temperature transmitter 0-25bar threaded monel",
+    "unit": "EA",
+    "contract_name": "Field Instruments Contract",
+    "contract_type": "Materials",
+    "code": "411115050003"
+  },
+  {
+    "item_id": "M-1056",
+    "material_no": "MAT-1056",
+    "description": "temperature transmitter 0-25bar wafer hastelloy",
+    "unit": "EA",
+    "contract_name": "Field Instruments Contract",
+    "contract_type": "Materials",
+    "code": "411115050004"
+  },
+  {
+    "item_id": "M-1057",
+    "material_no": "MAT-1057",
+    "description": "level gauge 0-10bar flanged hastelloy",
+    "unit": "EA",
+    "contract_name": "Field Instruments Contract",
+    "contract_type": "Materials",
+    "code": "411115060001"
+  },
+  {
+    "item_id": "M-1058",
+    "material_no": "MAT-1058",
+    "description": "level gauge 0-100bar flanged monel",
+    "unit": "EA",
+    "contract_name": "Field Instruments Contract",
+    "contract_type": "Materials",
+    "code": "411115060002"
+  },
+  {
+    "item_id": "M-1059",
+    "material_no": "MAT-1059",
+    "description": "level gauge 4-20ma wafer hastelloy",
+    "unit": "EA",
+    "contract_name": "Field Instruments Contract",
+    "contract_type": "Materials",
+    "code": "411115060003"
+  },
+  {
+    "item_id": "M-1060",
+    "material_no": "MAT-1060",
+    "description": "level gauge 0-10bar flanged 316ss",
+    "unit": "EA",
+    "contract_name": "Field Instruments Contract",
+    "contract_type": "Materials",
+    "code": "411115060004"
+  },
+  {
+    "item_id": "M-1061",
+    "material_no": "MAT-1061",
+    "description": "valve positioner 4-20ma flanged hastelloy",
+    "unit": "EA",
+    "contract_name": "Field Instruments Contract",
+    "contract_type": "Materials",
+    "code": "411115070001"
+  },
+  {
+    "item_id": "M-1062",
+    "material_no": "MAT-1062",
+    "description": "valve positioner 4-20ma wafer monel",
+    "unit": "EA",
+    "contract_name": "Field Instruments Contract",
+    "contract_type": "Materials",
+    "code": "411115070002"
+  },
+  {
+    "item_id": "M-1063",
+    "material_no": "MAT-1063",
+    "description": "valve positioner 4-20ma wafer hastelloy",
+    "unit": "EA",
+    "contract_name": "Field Instruments Contract",
+    "contract_type": "Materials",
+    "code": "411115070003"
+  },
+  {
+    "item_id": "M-1064",
+    "material_no": "MAT-1064",
+    "description": "valve positioner 0-10bar threaded monel",
+    "unit": "EA",
+    "contract_name": "Field Instruments Contract",
+    "contract_type": "Materials",
+    "code": "411115070004"
+  },
+  {
+    "item_id": "M-1065",
+    "material_no": "MAT-1065",
+    "description": "centrifugal pump 75kw cast iron packing",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401016020001"
+  },
+  {
+    "item_id": "M-1066",
+    "material_no": "MAT-1066",
+    "description": "centrifugal pump 5kw duplex packing",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401016020002"
+  },
+  {
+    "item_id": "M-1067",
+    "material_no": "MAT-1067",
+    "description": "centrifugal pump 75kw duplex mechanical seal",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401016020003"
+  },
+  {
+    "item_id": "M-1068",
+    "material_no": "MAT-1068",
+    "description": "centrifugal pump 15kw cast iron mechanical seal",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401016020004"
+  },
+  {
+    "item_id": "M-1069",
+    "material_no": "MAT-1069",
+    "description": "gear pump 75kw duplex mechanical seal",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401016030001"
+  },
+  {
+    "item_id": "M-1070",
+    "material_no": "MAT-1070",
+    "description": "gear pump 30kw cast iron magnetic drive",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401016030002"
+  },
+  {
+    "item_id": "M-1071",
+    "material_no": "MAT-1071",
+    "description": "gear pump 5kw cast iron magnetic drive",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401016030003"
+  },
+  {
+    "item_id": "M-1072",
+    "material_no": "MAT-1072",
+    "description": "gear pump 15kw stainless steel mechanical seal",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401016030004"
+  },
+  {
+    "item_id": "M-1073",
+    "material_no": "MAT-1073",
+    "description": "diaphragm pump 5kw stainless steel mechanical seal",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401016040001"
+  },
+  {
+    "item_id": "M-1074",
+    "material_no": "MAT-1074",
+    "description": "diaphragm pump 15kw duplex packing",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401016040002"
+  },
+  {
+    "item_id": "M-1075",
+    "material_no": "MAT-1075",
+    "description": "diaphragm pump 75kw cast iron mechanical seal",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401016040003"
+  },
+  {
+    "item_id": "M-1076",
+    "material_no": "MAT-1076",
+    "description": "diaphragm pump 75kw duplex magnetic drive",
+    "unit": "EA",
+    "contract_name": "Valves & Rotating Frame Agreement",
+    "contract_type": "Materials",
+    "code": "401016040004"
+  },
+  {
+    "item_id": "M-1077",
+    "material_no": "MAT-1077",
+    "description": "power cable 11kv 6sqmm armoured",
+    "unit": "M",
+    "contract_name": "Electrical Bulk Supply Contract",
+    "contract_type": "Materials",
+    "code": "391210020001"
+  },
+  {
+    "item_id": "M-1078",
+    "material_no": "MAT-1078",
+    "description": "power cable 11kv 2.5sqmm pvc",
+    "unit": "M",
+    "contract_name": "Electrical Bulk Supply Contract",
+    "contract_type": "Materials",
+    "code": "391210020002"
+  },
+  {
+    "item_id": "M-1079",
+    "material_no": "MAT-1079",
+    "description": "power cable 11kv 2.5sqmm xlpe",
+    "unit": "M",
+    "contract_name": "Electrical Bulk Supply Contract",
+    "contract_type": "Materials",
+    "code": "391210020003"
+  },
+  {
+    "item_id": "M-1080",
+    "material_no": "MAT-1080",
+    "description": "power cable 240v 95sqmm armoured",
+    "unit": "M",
+    "contract_name": "Electrical Bulk Supply Contract",
+    "contract_type": "Materials",
+    "code": "391210020004"
+  },
+  {
+    "item_id": "M-1081",
+    "material_no": "MAT-1081",
+    "description": "circuit breaker 11kv 2.5sqmm pvc",
+    "unit": "EA",
+    "contract_name": "Electrical Bulk Supply Contract",
+    "contract_type": "Materials",
+    "code": "391210030001"
+  },
+  {
+    "item_id": "M-1082",
+    "material_no": "MAT-1082",
+    "description": "circuit breaker 240v 2.5sqmm xlpe",
+    "unit": "EA",
+    "contract_name": "Electrical Bulk Supply Contract",
+    "contract_type": "Materials",
+    "code": "391210030002"
+  },
+  {
+    "item_id": "M-1083",
+    "material_no": "MAT-1083",
+    "description": "circuit breaker 415v 2.5sqmm xlpe",
+    "unit": "EA",
+    "contract_name": "Electrical Bulk Supply Contract",
+    "contract_type": "Materials",
+    "code": "391210030003"
+  },
+  {
+    "item_id": "M-1084",
+    "material_no": "MAT-1084",
+    "description": "circuit breaker 11kv 2.5sqmm xlpe",
+    "unit": "EA",
+    "contract_name": "Electrical Bulk Supply Contract",
+    "contract_type": "Materials",
+    "code": "391210030004"
+  },
+  {
+    "item_id": "M-1085",
+    "material_no": "MAT-1085",
+    "description": "cable gland 415v 6sqmm armoured",
+    "unit": "EA",
+    "contract_name": "Electrical Bulk Supply Contract",
+    "contract_type": "Materials",
+    "code": "391210040001"
+  },
+  {
+    "item_id": "M-1086",
+    "material_no": "MAT-1086",
+    "description": "cable gland 415v 95sqmm armoured",
+    "unit": "EA",
+    "contract_name": "Electrical Bulk Supply Contract",
+    "contract_type": "Materials",
+    "code": "391210040002"
+  },
+  {
+    "item_id": "M-1087",
+    "material_no": "MAT-1087",
+    "description": "cable gland 11kv 25sqmm armoured",
+    "unit": "EA",
+    "contract_name": "Electrical Bulk Supply Contract",
+    "contract_type": "Materials",
+    "code": "391210040003"
+  },
+  {
+    "item_id": "M-1088",
+    "material_no": "MAT-1088",
+    "description": "cable gland 415v 6sqmm pvc",
+    "unit": "EA",
+    "contract_name": "Electrical Bulk Supply Contract",
+    "contract_type": "Materials",
+    "code": "391210040004"
+  },
+  {
+    "item_id": "M-1089",
+    "material_no": "MAT-1089",
+    "description": "hex bolt 6203 graphite grade b",
+    "unit": "EA",
+    "contract_name": "MRO Consumables Contract",
+    "contract_type": "Materials",
+    "code": "311615020001"
+  },
+  {
+    "item_id": "M-1090",
+    "material_no": "MAT-1090",
+    "description": "hex bolt dn50 stainless steel grade b",
+    "unit": "EA",
+    "contract_name": "MRO Consumables Contract",
+    "contract_type": "Materials",
+    "code": "311615020002"
+  },
+  {
+    "item_id": "M-1091",
+    "material_no": "MAT-1091",
+    "description": "hex bolt m12 ptfe grade a",
+    "unit": "EA",
+    "contract_name": "MRO Consumables Contract",
+    "contract_type": "Materials",
+    "code": "311615020003"
+  },
+  {
+    "item_id": "M-1092",
+    "material_no": "MAT-1092",
+    "description": "hex bolt dn50 ptfe grade a",
+    "unit": "BOX",
+    "contract_name": "MRO Consumables Contract",
+    "contract_type": "Materials",
+    "code": "311615020004"
+  },
+  {
+    "item_id": "M-1093",
+    "material_no": "MAT-1093",
+    "description": "ball bearing m12 graphite grade a",
+    "unit": "EA",
+    "contract_name": "MRO Consumables Contract",
+    "contract_type": "Materials",
+    "code": "311615030001"
+  },
+  {
+    "item_id": "M-1094",
+    "material_no": "MAT-1094",
+    "description": "ball bearing 6203 graphite grade a",
+    "unit": "EA",
+    "contract_name": "MRO Consumables Contract",
+    "contract_type": "Materials",
+    "code": "311615030002"
+  },
+  {
+    "item_id": "M-1095",
+    "material_no": "MAT-1095",
+    "description": "ball bearing m12 graphite class 8.8",
+    "unit": "EA",
+    "contract_name": "MRO Consumables Contract",
+    "contract_type": "Materials",
+    "code": "311615030003"
+  },
+  {
+    "item_id": "M-1096",
+    "material_no": "MAT-1096",
+    "description": "ball bearing m16 graphite grade a",
+    "unit": "EA",
+    "contract_name": "MRO Consumables Contract",
+    "contract_type": "Materials",
+    "code": "311615030004"
+  },
+  {
+    "item_id": "M-1097",
+    "material_no": "MAT-1097",
+    "description": "spiral wound gasket m16 carbon steel class 8.8",
+    "unit": "EA",
+    "contract_name": "MRO Consumables Contract",
+    "contract_type": "Materials",
+    "code": "311615040001"
+  },
+  {
+    "item_id": "M-1098",
+    "material_no": "MAT-1098",
+    "description": "spiral wound gasket m8 ptfe class 8.8",
+    "unit": "EA",
+    "contract_name": "MRO Consumables Contract",
+    "contract_type": "Materials",
+    "code": "311615040002"
+  },
+  {
+    "item_id": "M-1099",
+    "material_no": "MAT-1099",
+    "description": "spiral wound gasket 6203 carbon steel grade b",
+    "unit": "EA",
+    "contract_name": "MRO Consumables Contract",
+    "contract_type": "Materials",
+    "code": "311615040003"
+  },
+  {
+    "item_id": "M-1100",
+    "material_no": "MAT-1100",
+    "description": "spiral wound gasket 6205 ptfe class 8.8",
+    "unit": "EA",
+    "contract_name": "MRO Consumables Contract",
+    "contract_type": "Materials",
+    "code": "311615040004"
+  },
+  {
+    "item_id": "M-1101",
+    "material_no": "MAT-1101",
+    "description": "mechanical seal m8 stainless steel grade a",
+    "unit": "EA",
+    "contract_name": "MRO Consumables Contract",
+    "contract_type": "Materials",
+    "code": "311615050001"
+  },
+  {
+    "item_id": "M-1102",
+    "material_no": "MAT-1102",
+    "description": "mechanical seal m16 ptfe grade a",
+    "unit": "EA",
+    "contract_name": "MRO Consumables Contract",
+    "contract_type": "Materials",
+    "code": "311615050002"
+  },
+  {
+    "item_id": "M-1103",
+    "material_no": "MAT-1103",
+    "description": "mechanical seal m16 stainless steel grade b",
+    "unit": "EA",
+    "contract_name": "MRO Consumables Contract",
+    "contract_type": "Materials",
+    "code": "311615050003"
+  },
+  {
+    "item_id": "M-1104",
+    "material_no": "MAT-1104",
+    "description": "mechanical seal 6203 stainless steel class 8.8",
+    "unit": "EA",
+    "contract_name": "MRO Consumables Contract",
+    "contract_type": "Materials",
+    "code": "311615050004"
+  },
+  {
+    "item_id": "M-1105",
+    "material_no": "MAT-1105",
+    "description": "industrial lubricant dn50 ptfe grade a",
+    "unit": "DRUM",
+    "contract_name": "MRO Consumables Contract",
+    "contract_type": "Materials",
+    "code": "311615060001"
+  },
+  {
+    "item_id": "M-1106",
+    "material_no": "MAT-1106",
+    "description": "industrial lubricant m8 stainless steel grade b",
+    "unit": "L",
+    "contract_name": "MRO Consumables Contract",
+    "contract_type": "Materials",
+    "code": "311615060002"
+  },
+  {
+    "item_id": "M-1107",
+    "material_no": "MAT-1107",
+    "description": "industrial lubricant m16 carbon steel class 8.8",
+    "unit": "L",
+    "contract_name": "MRO Consumables Contract",
+    "contract_type": "Materials",
+    "code": "311615060003"
+  },
+  {
+    "item_id": "M-1108",
+    "material_no": "MAT-1108",
+    "description": "industrial lubricant m12 carbon steel grade b",
+    "unit": "L",
+    "contract_name": "MRO Consumables Contract",
+    "contract_type": "Materials",
+    "code": "311615060004"
+  },
+  {
+    "item_id": "M-1109",
+    "material_no": "MAT-1109",
+    "description": "polymerization catalyst industrial grade 25kg bag 99 percent",
+    "unit": "BAG",
+    "contract_name": "Process Chemicals Supply Contract",
+    "contract_type": "Materials",
+    "code": "121612020001"
+  },
+  {
+    "item_id": "M-1110",
+    "material_no": "MAT-1110",
+    "description": "polymerization catalyst industrial grade 1000l ibc 98 percent",
+    "unit": "KG",
+    "contract_name": "Process Chemicals Supply Contract",
+    "contract_type": "Materials",
+    "code": "121612020002"
+  },
+  {
+    "item_id": "M-1111",
+    "material_no": "MAT-1111",
+    "description": "polymerization catalyst catalyst grade 1000l ibc 98 percent",
+    "unit": "KG",
+    "contract_name": "Process Chemicals Supply Contract",
+    "contract_type": "Materials",
+    "code": "121612020003"
+  },
+  {
+    "item_id": "M-1112",
+    "material_no": "MAT-1112",
+    "description": "polymerization catalyst technical grade 200l drum 98 percent",
+    "unit": "KG",
+    "contract_name": "Process Chemicals Supply Contract",
+    "contract_type": "Materials",
+    "code": "121612020004"
+  },
+  {
+    "item_id": "M-1113",
+    "material_no": "MAT-1113",
+    "description": "antioxidant additive technical grade 200l drum 99.9 percent",
+    "unit": "BAG",
+    "contract_name": "Process Chemicals Supply Contract",
+    "contract_type": "Materials",
+    "code": "121612030001"
+  },
+  {
+    "item_id": "M-1114",
+    "material_no": "MAT-1114",
+    "description": "antioxidant additive catalyst grade 25kg bag 99 percent",
+    "unit": "BAG",
+    "contract_name": "Process Chemicals Supply Contract",
+    "contract_type": "Materials",
+    "code": "121612030002"
+  },
+  {
+    "item_id": "M-1115",
+    "material_no": "MAT-1115",
+    "description": "antioxidant additive catalyst grade 1000l ibc 98 percent",
+    "unit": "BAG",
+    "contract_name": "Process Chemicals Supply Contract",
+    "contract_type": "Materials",
+    "code": "121612030003"
+  },
+  {
+    "item_id": "M-1116",
+    "material_no": "MAT-1116",
+    "description": "antioxidant additive industrial grade 25kg bag 99 percent",
+    "unit": "KG",
+    "contract_name": "Process Chemicals Supply Contract",
+    "contract_type": "Materials",
+    "code": "121612030004"
+  },
+  {
+    "item_id": "M-1117",
+    "material_no": "MAT-1117",
+    "description": "process solvent technical grade 25kg bag 99.9 percent",
+    "unit": "L",
+    "contract_name": "Process Chemicals Supply Contract",
+    "contract_type": "Materials",
+    "code": "121612040001"
+  },
+  {
+    "item_id": "M-1118",
+    "material_no": "MAT-1118",
+    "description": "process solvent catalyst grade 200l drum 98 percent",
+    "unit": "DRUM",
+    "contract_name": "Process Chemicals Supply Contract",
+    "contract_type": "Materials",
+    "code": "121612040002"
+  },
+  {
+    "item_id": "M-1119",
+    "material_no": "MAT-1119",
+    "description": "process solvent technical grade 1000l ibc 99.9 percent",
+    "unit": "DRUM",
+    "contract_name": "Process Chemicals Supply Contract",
+    "contract_type": "Materials",
+    "code": "121612040003"
+  },
+  {
+    "item_id": "M-1120",
+    "material_no": "MAT-1120",
+    "description": "process solvent catalyst grade 200l drum 99.9 percent",
+    "unit": "DRUM",
+    "contract_name": "Process Chemicals Supply Contract",
+    "contract_type": "Materials",
+    "code": "121612040004"
+  },
+  {
+    "item_id": "M-1121",
+    "material_no": "MAT-1121",
+    "description": "corrosion inhibitor catalyst grade 200l drum 99.9 percent",
+    "unit": "L",
+    "contract_name": "Process Chemicals Supply Contract",
+    "contract_type": "Materials",
+    "code": "121612050001"
+  },
+  {
+    "item_id": "M-1122",
+    "material_no": "MAT-1122",
+    "description": "corrosion inhibitor technical grade 200l drum 98 percent",
+    "unit": "L",
+    "contract_name": "Process Chemicals Supply Contract",
+    "contract_type": "Materials",
+    "code": "121612050002"
+  },
+  {
+    "item_id": "M-1123",
+    "material_no": "MAT-1123",
+    "description": "corrosion inhibitor industrial grade 200l drum 98 percent",
+    "unit": "L",
+    "contract_name": "Process Chemicals Supply Contract",
+    "contract_type": "Materials",
+    "code": "121612050003"
+  },
+  {
+    "item_id": "M-1124",
+    "material_no": "MAT-1124",
+    "description": "corrosion inhibitor technical grade 25kg bag 99.9 percent",
+    "unit": "IBC",
+    "contract_name": "Process Chemicals Supply Contract",
+    "contract_type": "Materials",
+    "code": "121612050004"
+  },
+  {
+    "item_id": "M-1125",
+    "material_no": "MAT-1125",
+    "description": "instrument calibration service quarterly pressure vessel",
+    "unit": "JOB",
+    "contract_name": "Inspection & Calibration Services Contract",
+    "contract_type": "Services",
+    "code": "811015020001"
+  },
+  {
+    "item_id": "M-1126",
+    "material_no": "MAT-1126",
+    "description": "instrument calibration service annual field instrument",
+    "unit": "JOB",
+    "contract_name": "Inspection & Calibration Services Contract",
+    "contract_type": "Services",
+    "code": "811015020002"
+  },
+  {
+    "item_id": "M-1127",
+    "material_no": "MAT-1127",
+    "description": "instrument calibration service shutdown field instrument",
+    "unit": "JOB",
+    "contract_name": "Inspection & Calibration Services Contract",
+    "contract_type": "Services",
+    "code": "811015020003"
+  },
+  {
+    "item_id": "M-1128",
+    "material_no": "MAT-1128",
+    "description": "instrument calibration service shutdown pressure vessel",
+    "unit": "JOB",
+    "contract_name": "Inspection & Calibration Services Contract",
+    "contract_type": "Services",
+    "code": "811015020004"
+  },
+  {
+    "item_id": "M-1129",
+    "material_no": "MAT-1129",
+    "description": "ndt inspection service annual rotating equipment",
+    "unit": "JOB",
+    "contract_name": "Inspection & Calibration Services Contract",
+    "contract_type": "Services",
+    "code": "811015030001"
+  },
+  {
+    "item_id": "M-1130",
+    "material_no": "MAT-1130",
+    "description": "ndt inspection service quarterly pressure vessel",
+    "unit": "JOB",
+    "contract_name": "Inspection & Calibration Services Contract",
+    "contract_type": "Services",
+    "code": "811015030002"
+  },
+  {
+    "item_id": "M-1131",
+    "material_no": "MAT-1131",
+    "description": "ndt inspection service quarterly rotating equipment",
+    "unit": "JOB",
+    "contract_name": "Inspection & Calibration Services Contract",
+    "contract_type": "Services",
+    "code": "811015030003"
+  },
+  {
+    "item_id": "M-1132",
+    "material_no": "MAT-1132",
+    "description": "ndt inspection service annual pressure vessel",
+    "unit": "JOB",
+    "contract_name": "Inspection & Calibration Services Contract",
+    "contract_type": "Services",
+    "code": "811015030004"
+  },
+  {
+    "item_id": "M-1133",
+    "material_no": "MAT-1133",
+    "description": "equipment overhaul service annual rotating equipment",
+    "unit": "JOB",
+    "contract_name": "Inspection & Calibration Services Contract",
+    "contract_type": "Services",
+    "code": "811015040001"
+  },
+  {
+    "item_id": "M-1134",
+    "material_no": "MAT-1134",
+    "description": "equipment overhaul service quarterly pressure vessel",
+    "unit": "JOB",
+    "contract_name": "Inspection & Calibration Services Contract",
+    "contract_type": "Services",
+    "code": "811015040002"
+  },
+  {
+    "item_id": "M-1135",
+    "material_no": "MAT-1135",
+    "description": "equipment overhaul service quarterly field instrument",
+    "unit": "JOB",
+    "contract_name": "Inspection & Calibration Services Contract",
+    "contract_type": "Services",
+    "code": "811015040003"
+  },
+  {
+    "item_id": "M-1136",
+    "material_no": "MAT-1136",
+    "description": "equipment overhaul service annual field instrument",
+    "unit": "JOB",
+    "contract_name": "Inspection & Calibration Services Contract",
+    "contract_type": "Services",
+    "code": "811015040004"
+  },
+  {
+    "item_id": "M-1137",
+    "material_no": "MAT-1137",
+    "description": "manpower supply technician static non-confine",
+    "unit": "MD",
+    "contract_name": "Technical Manpower Contract",
+    "contract_type": "Manpower",
+    "code": "801116020001"
+  },
+  {
+    "item_id": "M-1138",
+    "material_no": "MAT-1138",
+    "description": "manpower supply technician rotating confine",
+    "unit": "MD",
+    "contract_name": "Technical Manpower Contract",
+    "contract_type": "Manpower",
+    "code": "801116020002"
+  },
+  {
+    "item_id": "M-1139",
+    "material_no": "MAT-1139",
+    "description": "manpower supply technician rotating non-confine",
+    "unit": "MD",
+    "contract_name": "Technical Manpower Contract",
+    "contract_type": "Manpower",
+    "code": "801116020003"
+  },
+  {
+    "item_id": "M-1140",
+    "material_no": "MAT-1140",
+    "description": "manpower supply technician static confine",
+    "unit": "MD",
+    "contract_name": "Technical Manpower Contract",
+    "contract_type": "Manpower",
+    "code": "801116020004"
+  },
+  {
+    "item_id": "M-1141",
+    "material_no": "MAT-1141",
+    "description": "manpower supply plant operator static confine",
+    "unit": "MD",
+    "contract_name": "Technical Manpower Contract",
+    "contract_type": "Manpower",
+    "code": "801116030001"
+  },
+  {
+    "item_id": "M-1142",
+    "material_no": "MAT-1142",
+    "description": "manpower supply plant operator static non-confine",
+    "unit": "MD",
+    "contract_name": "Technical Manpower Contract",
+    "contract_type": "Manpower",
+    "code": "801116030002"
+  },
+  {
+    "item_id": "M-1143",
+    "material_no": "MAT-1143",
+    "description": "manpower supply plant operator rotating non-confine",
+    "unit": "MD",
+    "contract_name": "Technical Manpower Contract",
+    "contract_type": "Manpower",
+    "code": "801116030003"
+  },
+  {
+    "item_id": "M-1144",
+    "material_no": "MAT-1144",
+    "description": "manpower supply plant operator rotating confine",
+    "unit": "MD",
+    "contract_name": "Technical Manpower Contract",
+    "contract_type": "Manpower",
+    "code": "801116030004"
+  },
+  {
+    "item_id": "M-1145",
+    "material_no": "MAT-1145",
+    "description": "manpower supply field supervisor static confine",
+    "unit": "MD",
+    "contract_name": "Technical Manpower Contract",
+    "contract_type": "Manpower",
+    "code": "801116040001"
+  },
+  {
+    "item_id": "M-1146",
+    "material_no": "MAT-1146",
+    "description": "manpower supply field supervisor rotating non-confine",
+    "unit": "MD",
+    "contract_name": "Technical Manpower Contract",
+    "contract_type": "Manpower",
+    "code": "801116040002"
+  },
+  {
+    "item_id": "M-1147",
+    "material_no": "MAT-1147",
+    "description": "manpower supply field supervisor static non-confine",
+    "unit": "MD",
+    "contract_name": "Technical Manpower Contract",
+    "contract_type": "Manpower",
+    "code": "801116040003"
+  },
+  {
+    "item_id": "M-1148",
+    "material_no": "MAT-1148",
+    "description": "manpower supply field supervisor rotating confine",
+    "unit": "MD",
+    "contract_name": "Technical Manpower Contract",
+    "contract_type": "Manpower",
+    "code": "801116040004"
+  }
+]

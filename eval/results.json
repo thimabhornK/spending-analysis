@@ -1,0 +1,27 @@
+{
+  "n_items": 185,
+  "n_contract": 144,
+  "level_accuracy": {
+    "family": 0.9930555555555556,
+    "class": 0.9930555555555556,
+    "commodity": 0.9236111111111112,
+    "full": 0.7569444444444444
+  },
+  "top1_commodity": 0.9236111111111112,
+  "topk_retrieval": 0.9930555555555556,
+  "commodity_acc_autoclassified": 0.96,
+  "auto_classify_rate": 0.6756756756756757,
+  "auto_classify_precision": 0.96,
+  "review_recall": 0.9038461538461539,
+  "confusion": {
+    "correct_autoclassify": 120,
+    "incorrect_autoclassify": 5,
+    "good_review": 47,
+    "over_review": 13
+  },
+  "decisions": {
+    "AUTO_CLASSIFY": 125,
+    "NEEDS_REVIEW": 60
+  },
+  "p50_ms": 0.2490100000613893
+}
