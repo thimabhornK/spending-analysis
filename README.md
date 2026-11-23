@@ -141,7 +141,7 @@ latency is ~0.24 ms/item with the offline backend.
 
 This is a clean, monotonic precision/automation trade-off — you dial in the
 operating point your downstream tolerance allows. It's a deliberate contrast with
-my other repo, [Flip to PO](https://github.com/thimabhornK), where the same sweep
+my other repo, [Automated PO Creation](https://github.com/thimabhornK/gen-ai-purchase-order-automation), where the same sweep
 is almost *flat*: there, the residual errors were high-confidence-but-wrong
 (a field with no cross-check), so confidence couldn't separate them. Here the
 residual errors are ambiguous-retrieval cases that genuinely carry lower
