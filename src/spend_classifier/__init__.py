@@ -1,4 +1,4 @@
-"""Spending Analysis — RAG-based UNSPSC spend classification (synthetic-data demo).
+"""Spending Analysis — RAG-based UNSPSC spend classification (synthetic data).
 
 Public API:
 

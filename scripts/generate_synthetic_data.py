@@ -14,8 +14,8 @@ it actually runs:
     new_variant   a new variant of an existing commodity (new internal)  -> Step 2
     non_contract  off-catalogue spend (office/travel/software/...)        -> review
 
-About 78% of items are under contract (exact + semantic + new_variant), echoing a
-real procurement book where most spend flows through contracts.
+Most items are under contract (exact + semantic + new_variant), as in a typical
+procurement book.
 """
 
 from __future__ import annotations
@@ -457,7 +457,7 @@ def build_po_items(master, rng):
             truth_code=code12(seg, fam, cls, com, 9001), is_contract=True, kind="new_variant",
         )
 
-    # non_contract: tuned so contract share ~78%
+    # non_contract: tuned so most items are under contract
     target_total = len(items) / 0.78
     n_non = int(round(target_total - len(items)))
     for _ in range(max(1, n_non)):

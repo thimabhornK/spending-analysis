@@ -3,8 +3,8 @@
 The model is given the item plus the retrieved coded neighbours and asked to pick
 the best UNSPSC code. It is allowed to return a standard code that is *not* among
 the neighbours when the item is genuinely new (``in_master: false``) — but it must
-never invent a malformed code. This mirrors the rule from the production system:
-correctness beats conformity, retrieval grounds the decision.
+never invent a malformed code: correctness beats conformity, and retrieval
+grounds the decision.
 """
 
 from __future__ import annotations

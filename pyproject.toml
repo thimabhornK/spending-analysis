@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "spending-analysis"
 version = "1.0.0"
-description = "RAG-based UNSPSC spend classification with confidence-gated human-in-the-loop (synthetic-data demo)"
+description = "RAG-based UNSPSC spend classification with confidence-gated human-in-the-loop"
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
