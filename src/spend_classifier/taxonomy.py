@@ -8,10 +8,9 @@ The standard UNSPSC code is 8 digits, a 4-level hierarchy:
     │  └──────── Family
     └─────────── Segment
 
-This project extends it the way the production system did: four extra internal
-digits append a company-specific sub-commodity (e.g. a material grade or a
-contract-specific variant) that the public standard doesn't capture, giving a
-12-digit code:
+This project extends it with four extra internal digits for a company-specific
+sub-commodity (e.g. a material grade or a contract-specific variant) that the
+public standard doesn't capture, giving a 12-digit code:
 
     SS FF CC PP NNNN   ->   e.g. 40-14-16-07-0003
 
